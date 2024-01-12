@@ -1,0 +1,70 @@
+{
+    "souvenirItem": [
+        {
+            "imageSrc": "../Picture/Shopping/Souvenir/krama.jpeg",
+            "title": "Krama",
+            "description": "All of our Kramas are handmade by our partner workshop in Siem Reap – Cambodia. We are proud of the particular bond we share with them and proud to tell you that they ensure a real program for weavers and guarantees fair pay. That will undoubtedly fulfill your expectations and make you proud to wear your Cambodian scarves for a trendy look and an ethical style. The origins / The beginnings of Krama are unknown. It is too hard to understand how this Cambodian scarf became a real symbol over generations and a major part of the Khmer identity. Nowadays, whatever his social status may be, every Cambodian uses Krama everyday whether it is as a scarf, as a hammock for babies, or as a bandana. So, as you can see, Krama is a symbol in Cambodia and represents its legacy. Krama Krama is engaged in continuing this legacy for generations all over the world. This is why, thanks to our partner Krama Yu, we ensure an ethical and sustainable way to produce Krama.",
+            "link": "/krama"
+        },
+        {
+            "imageSrc": "../Picture/Shopping/Souvenir/recycled_products.webp",
+            "title": "Recycled Products",
+            "description": "Cambodia and surrounding regions. Having traveled to Cambodia first to attend a traditional Khmer wedding five years ago in the Kampot district, we discovered a country that despite the well documented horrific past, contains people with immense creative flair and ingenious workmanship. Our mission is to bring economic empowerment and a sustainable income to our artisans in the developing world. We build strong relationships with them, which broaden our understanding and appreciation of not only their needs, but also their hopes and dreams. We then import the results of their creative workmanship, these unique and interesting products, making them available to you, the consumer.",
+            "link": "/recycled_products"
+        },
+        {
+            "imageSrc": "../Picture/Shopping/Souvenir/kampot_pepper.jpeg",
+            "title": "Kampot Pepper",
+            "description": "",
+            "link": "/kampot_pepper"
+        },
+        {
+            "imageSrc": "../Picture/Shopping/Souvenir/",
+            "title": "Silk Product",
+            "description": "",
+            "link": "/"
+        },
+        {
+            "imageSrc": "Picture/Shopping/Souvenir/",
+            "title": "Palm Tree Leave Product",
+            "description": "",
+            "link": "/"
+        },
+        {
+            "imageSrc": "Picture/Shopping/Souvenir/",
+            "title": "Landscape Painting",
+            "description": "",
+            "link": "/"
+        },
+        {
+            "imageSrc": "Picture/Shopping/Souvenir/",
+            "title": "Themed T-shirts",
+            "description": "",
+            "link": "/"
+        },
+        {
+            "imageSrc": "Picture/Shopping/Souvenir/",
+            "title": "Natural Palm Sugar",
+            "description": "",
+            "link": "/"
+        },
+        {
+            "imageSrc": "Picture/Shopping/Souvenir/",
+            "title": "Woodcarvings and Statues",
+            "description": "",
+            "link": "/"
+        },
+        {
+            "imageSrc": "Picture/Shopping/Souvenir/",
+            "title": "Coconut Shell Product",
+            "description": "",
+            "link": "/"
+        },
+        {
+            "imageSrc": "Picture/Shopping/Souvenir/",
+            "title": "Grass-Woven Items",
+            "description": "",
+            "link": "/"
+        }
+    ]
+}

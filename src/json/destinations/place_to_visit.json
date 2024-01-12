@@ -1,0 +1,70 @@
+{
+	"placeToVisitItem": [
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/phnom_penh.jpeg",
+			"title": "Phnom Penh",
+			"description": "Phnom Penh, Cambodia’s busy capital, sits at the junction of the Mekong and Tonlé Sap rivers. It was a hub for both the Khmer Empire and French colonialists. On its walkable riverfront, lined with parks, restaurants and bars, are the ornate Royal Palace, Silver Pagoda and the National Museum, displaying artifacts from around the country. At the city’s heart is the massive, art deco Central Market.",
+			"link": "/phnom_penh"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/siem_reap.webp",
+			"title": "Siem Reap",
+			"description": "Siem Reap, a resort town in northwestern Cambodia, is the gateway to the ruins of Angkor, the seat of the Khmer kingdom from the 9th–15th centuries. Angkor’s vast complex of intricate stone buildings includes preserved Angkor Wat, the main temple, which is pictured on Cambodia’s flag. Giant, mysterious faces are carved into the Bayon Temple at Angkor Thom.",
+			"link": "/siem_reap"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/sihanoukville.webp",
+			"title": "Sihanoukville",
+			"description": "The town of SihanoukVille is surrounded on 3 sides by the Bay of Thailand.  From the beaches and surrounding hills, many of the country's small islands can be seen.  Many of the beaches are filled with grass hut restaurants and bars, some of the beaches are rocky, a couple are big resorts, and some are pure sandy beach. Most all the beaches are crowded with construction, Chinese tourists and workers.  There's construction (or unfinished buildings) almost everywhere.   A dozen Islands surround SihanoukVille, and a couple of these are fairly unspoiled for the moment.  Beaches, forest treks, diving, swimming, and chilling are the main activities here.",
+			"link": "/sihanoukville"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/kampot.webp",
+			"title": "Kampot",
+			"description": "Kampot is a city on the Preaek Tuek Chhu River in southern Cambodia. It's known for its pepper plantations and salt fields. Many buildings date from the colonial period, including the Governor’s Mansion. The house is now the Kampot Museum, which has exhibits on the city’s history. To the west, Preah Monivong Bokor National Park has a cool climate with forests, waterfalls and wildlife including gibbons and big cats.",
+			"link": "/kampot"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/battambang.jpeg",
+			"title": "Battambang",
+			"description": "Battambang is a city on the Sangkae River in northwestern Cambodia. It’s known for colonial buildings such as Sala Khaet, the former Governor’s Residence. Battambang Provincial Museum has artifacts from local Khmer temples. Nearby, Phare Ponleu Selpak is a circus and performing arts school for underprivileged children. North of the center are the ruins of Ek Phnom, an 11th-century pagoda with sandstone carvings.",
+			"link": "/battambang"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/banteay_meanchey.jpeg",
+			"title": "Banteay Meanchey",
+			"description": "Banteay Meanchey is a Cambodian province in the northwest of the country, and its capital is named Sisophon. The town of Sisophorn is today a charming, quiet place that only gives hints to its turbulent past upon closer examination. Like Siem Reap and Battambang Provinces, control of the province has changed hands many times between the Thais and the Khmers in the more distant past, and the Khmer Rouge and central Phnom Penh government in recent decades.  With the final demise of the Khmer Rouge (locals, however, firmly believe the Present national reconciliation only the Khmer Rouge trick), the province and towns are striving to rebuild their culture and economy.",
+			"link": "/banteay_meanchey"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/pailin.png",	
+			"title": "Pailin",
+			"description": "Pailin is a small municipality in the West of Cambodia very closed to the border of Thailand. The provincial capital is called Pailin City and is known to much of the world as being the area where many of the Khmer Rouge leaders came from and retreated after their fall. Until the year of 2001 Pailin was part of the Battambang Province, but was then elevated to city status and thus became a province and autonomous zone of its own.",
+			"link": "/pailin"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/ratanakiri.jpeg",
+			"title": "Ratanakiri",
+			"description": "Ratanakiri is located in Cambodia's far northeast bordered by Laos to the north, Vietnam to the east, Mondulkiri to the south, and Stung Treng to the west. This rural rugged province is a 70% ethnic minority, which are known as 'Chunchiet'. Ratanakiri was as recently as 2002 seriously off the beaten track but has since been 'discovered' step by step.",
+			"link": "/ratanakiri"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/koh_kong.jpeg",
+			"title": "Koh Kong",
+			"description": "Koh Kong is the most southwestern province of Cambodia. It is one of the biggest provinces in the whole country with a long undeveloped coastline and a mountainous, forested and largely inaccessible interior, which embraces part of the Cardamom Mountains, the biggest coherent rainforest of Southeast Asia. Its tourist attractions include abundant wildlife; big waterfalls and casinos on the border to Thailand, while an Export Processing Zone and new port facilities are being developed for international trade.",
+			"link": "/koh_kong"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/mondulkiri.jpeg",
+			"title": "Mondulkiri",
+			"description": "Mondulkiri is a province of Cambodia. Bordering the provinces of Kratié to the west, Stung Treng to the northwest, Ratanakiri to the north, and the country of Vietnam to the east and south. It is the most sparsely populated province in the country despite being the largest in land area",
+			"link": "/mondulkiri"
+		},
+		{
+			"imageSrc": "../Picture/Destinations/Place_To_Visit/svay_rieng.jpeg",
+			"title": "Svay Rieng",
+			"description": "Svay Rieng is on of the smallest and sleepiest Cambodian provinces that just happen to have one of the country's busiest highways running straight through - National Highway No 1, which links Phnom Penh and Ho Chi Minh City in Vietnam just after you cross the Mekong River by way of the Neak Loeung Ferry. It is also one of the poorest provinces of Cambodia due to the poor quality of the land. Most of the provincial population eke out a subsistence living based on farming and fishing.",
+			"link": "/svay_rieng"
+		}
+	]
+}

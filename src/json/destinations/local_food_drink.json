@@ -1,0 +1,70 @@
+{
+	"localFoodAndDrinkItem": [
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/fish_amok.webp",
+			"title": "Fish amok (steamed coconut fish in banana leaves)",
+			"description": "Our Cambodian fish amok recipe is traditional – an authentic steamed fish curry made to a classic recipe from an older generation of cooks who believe that if it’s not properly steamed, it’s not amok trei, a steamed fish curry. ‘Amok’ means to steam in banana leaves in Khmer and this refined dish is likely a Royal Khmer specialty dating back to the Khmer Empire. This classic Cambodian fish amok recipe for a traditional steamed fish curry is based on the recipe of a respected family of elderly cooks whose mothers, grandmothers and great grandmothers made the dish during a time when Cambodian women thought nothing of spending a full day preparing a family feast.",
+			"link": "/fish_amok"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/kuy_teav.jpeg",
+			"title": "Kuy Teav",
+			"description": "Kuyteav (Khmer: គុយទាវ, kŭytéav [kujtiəw]) is a Cambodian noodle soup consisting of rice noodles with pork stock and toppings. A popular breakfast dish in Cambodia, kuyteav can be found at marketplace stalls, roadside vendors, restaurants and in shophouses across the country, and is distinguished by its clear broth and array of herbs, aromatics and other garnishes and condiments. Kuyteav is prepared with partially dry thin squarish rice noodles cooked by quickly immersing the noodles in boiling water. The noodles are then strained, placed into a bowl, and moistened with nutty, caramelised garlic oil. After dressing with a sticky brown liquid made of oyster sauce[citation needed], soy sauce and a pinch of sugar, the bowl is then filled with a clear broth made from pork bones, dried squid[citation needed], and sugar, and seasoned with a bit of fish sauce. ",
+			"link": "/kuy_teav"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/nom_banh_chok.jpeg",
+			"title": "Nom Banh Chok",
+			"description": "Num banhchok (Khmer: នំបញ្ចុក, num bânhchŏk Khmer pronunciation: [nom ɓaɲcok]) are lightly fermented Cambodian rice noodles and a breakfast noodle dish. Num banhchok is made by soaking rice for 2–4 hours and grinding it into a liquidy paste. The paste is pressed into round shapes and dried inside calico bags. Then it is pulverized and turned into a viscous paste, which is extruded into boiling water. The noodles are boiled for 3–4 minutes and transferred to cold water.",
+			"link": "/nom_banh_chok"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/beef_lok_lak.jpeg",
+			"title": "Beef Lok Lak",
+			"description": "Lok lak is a Cambodian beef dish served with crispy lettuce and fresh tomatoes. Also known as shaking beef, lok lak is simple to make, with complex flavors and a savory-sweet sauce that’s sure to impress. Lok lak is a Cambodian celebratory dish that consists of tender cubed steak drenched in a savory tomato sauce. You’ll always see it plated with the beef encircled with crisp romaine lettuce and sliced bright red tomatoes. Once the lok lak is served, everyone takes a piece of lettuce and adds the sauced beef, tomato, and rice inside, then spoons the pepper lime sauce on top. Lok lak is for a special occasion, but it’s also easy enough for a weekday meal. ",
+			"link": "/beef_lok_lak"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/bai_sach_chrouk.jpeg",
+			"title": "Bai sach chrouk",
+			"description": "This Cambodian pork and rice recipe makes bai sach chrouk, a popular Cambodian breakfast dish that is a classic that’s found all over Cambodia. Sold at bustling morning markets and busy roadside stalls, thin pork strips that have marinated overnight are grilled and served with steamed rice and a quick pickle of carrot and daikon. This Cambodian pork and rice recipe for bai sach chrouk makes one of Cambodia’s most popular breakfasts, along with the noodle soups kuy teav and nom banh chok, and the rice porridge borbor, and it’s one of the easiest Cambodian recipes to make.",
+			"link": "/bai_sach_chrouk"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/nompang.jpeg",
+			"title": "Nompang",
+			"description": "In Cambodian cuisine, num pang (Khmer: នំបុ័ង, from French: pain – 'bread') is a short baguette with thin, crisp crust and soft, airy texture. It is often split lengthwise and filled with savory ingredients like a submarine sandwich and served as a meal, called num pang sach (នំបុ័ងសាច់). It is similar to Laos's khao jee pâté and Vietnam's bánh mì. Baguettes were adopted into Cambodian cuisine from the French when Cambodia was a protectorate in French Indochina.[1] More recently, num pang has spread outside of Cambodia with eateries specializing in num pang opened in cities, such as New York,[2] Washington,[3] Boston,[4] and Melbourne.",
+			"link": "/nompang"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/kdam_chaa_fried_crab.jpeg",
+			"title": "Kdam Chaa – Fried Crab",
+			"description": "The Stir Fry Curry Crabs Recipe is a popular dish in Khmer cuisine, known for its flavorful combination of curry powder, coconut milk, oyster sauce, fish sauce, and other aromatic ingredients. The dish can be prepared using either cooked or raw Dungeness crabs. The crabs are cleaned, cut, and the shells are cracked to allow the flavors to penetrate. Other ingredients include white onion, green onions, ginger, jalapeño, garlic, and shallots, all of which contribute to the dish’s rich and aromatic profile. To create the stir fry sauce, a mixture of coconut milk, red curry paste, sugar, oyster sauce, fish sauce, and Chinese 5 spices is combined in a bowl. This flavorful sauce will be the key component in infusing the crabs with a burst of delicious taste.",
+			"link": "/kdam_chaa_fried_crab"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/prahok.webp",
+			"title": "Prahok",
+			"description": "Prahok (/ˈprɑːhʊk/; Khmer: ប្រហុក, romanized: prâhŏk, IPA: [prɑːhok]) is a salted and fermented fish paste (usually of snakeheads) used in Cambodian cuisine as a seasoning or a condiment. It originated as a way of preserving fish during the months when fresh fish was not available in abundant supply. Because of its saltiness and strong flavor, it was used as an addition to many meals in Cambodian cuisine, such as soups and sauces. A Cambodian saying goes, 'No prahok, no salt', referring to a dish that is of poor flavor or bland thus highlighting its essentiality in Cambodian cuisine.Prahok has a strong and distinct odor reminiscent of Limburger or ripe Camembert,[1] which has earned it the nickname 'Cambodian cheese'.[2][3] Prahok is usually eaten as a main course with white rice and vegetables such as yardlong beans, cucumbers, winged beans and a variety of eggplants.",
+			"link": "/prahok"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/kroeung.jpeg",
+			"title": "Kroeung",
+			"description": "For a mega-hit of South-East Asian colour, fragrance and flavour, this Amazing Cambodian Cha Kroeung Sach Moan, lemongrass chicken stir-fry delivers on all fronts! Learn how simple this authentic dish is to put together at home. Cambodia is one of the most amazing places I've ever visited. The Khmer people are amongst some of the friendliest, funniest and most hospitable I've encountered while travelling. The country is rich with culture, natural beauty and of course, delicious food! Having long been a fan of South-East Asian cuisine like Thai, Vietnamese, Malaysian and Indonesian, I was keen to sample the delights of Cambodia and I was not to be left disappointed.",
+			"link": "/kroeung"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/kaw_sach_chrouk.jpeg",
+			"title": "BRAISED PORK BELLY (KAW SACH CHROUK)",
+			"description": "An authentic and unforgettable, sweet and savory dish. Pork belly braised in a dark thin flavorful broth intensified with caramelized Thnot sugar, star anise, garlic and Kampot pepper alongside hard boiled eggs, roasted tofu and tender bamboo shoots. This is the dish that Khmer moms reward their children for a job well done. This dish is known for its rich flavors and its comforting notes of spice. This dish is typically served as a soup broth with tender braised pork and eggs. This version is my quick and easy way when craving this dish without the broth. I love this dish because it exudes warmth and comfort. I think it is easy for one to cross compare culturally how this dish should taste, or be like. But, this is my way.",
+			"link": "/kaw_sach_chrouk"
+		},
+		{
+			"imageSrc": "Picture/Destinations/Local_Food_Drink/papaya_salad.jpeg",
+			"title": "Papaya Salad",
+			"description": "This green papaya salad recipe makes Cambodia’s Bok Lahong or Nhoam Lahong, a fragrant, crunchy salad that’s a little funky, spicy, sour, salty, and a tad sweet. Typically eaten as a late afternoon snack, this bespoke Cambodian salad is made to order, and has cousins in Laos (Tum Som), Thailand (Som Tum), and Vietnam (Gỏi Đủ Đủ).One of Cambodia’s favourite salads, our Cambodian green papaya salad recipe makes nhoam lahong or bok lahong, a fresh, aromatic, crunchy papaya salad that is a little funky, a little spicy, a little sour, a little salty, and a little sweet.",
+			"link": "/papaya_salad"
+		}
+	]
+}
